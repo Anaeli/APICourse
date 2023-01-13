@@ -1,5 +1,6 @@
 using Xunit;
 using System;
+using System.IO;
 using System.Linq;
 using System.Collections.Generic;
 using Jorge_HW1;
@@ -93,8 +94,27 @@ public class UnitTest1
 
     [Theory]
     [MemberData(nameof(AdditionDataSet))]
-    public void ItShouldReturnEqualsResultsWithInternalData(int x, int y, int expectedResult)
+    public void ItShouldReturnEqualsResultsWithInternalData(int a, int b, int expectedResult)
     {
-        Assert.Equal(expectedResult, x + y);
+        Assert.Equal(expectedResult, a + b);
+    }
+
+    public static IEnumerable<object[]> AdditionDataFromCsv()
+    {
+        var data = File.ReadAllLines(
+                "/home/jorgech/Documents/API Testing/APICourse/JorgeTests/Data.csv"
+            )
+            .Select(x => x.Split(','))
+            .Select(x => new object[] { int.Parse(x[0]), int.Parse(x[1]), int.Parse(x[2]) });
+
+        return data;
+    }
+
+    [Theory]
+    [MemberData("AdditionDataFromCsv")]
+    public void TestAdditionFromCsv(int a, int b, int expectedResult)
+    {
+        // Assert
+        Assert.Equal(expectedResult, a + b);
     }
 }
