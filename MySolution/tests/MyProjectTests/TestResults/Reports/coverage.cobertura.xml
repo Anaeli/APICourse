@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="1" branch-rate="1" version="1.9" timestamp="1673579007" lines-covered="16" lines-valid="16" branches-covered="2" branches-valid="2">
+<coverage line-rate="1" branch-rate="1" version="1.9" timestamp="1673637980" lines-covered="22" lines-valid="22" branches-covered="2" branches-valid="2">
   <sources>
-    <source>/</source>
+    <source>/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/src/MyProject/</source>
   </sources>
   <packages>
-    <package name="MyProject" line-rate="1" branch-rate="1" complexity="9">
+    <package name="MyProject" line-rate="1" branch-rate="1" complexity="12">
       <classes>
-        <class name="Student.Student" filename="Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/src/MyProject/Student.cs" line-rate="1" branch-rate="1" complexity="9">
+        <class name="Student.Student" filename="Student.cs" line-rate="1" branch-rate="1" complexity="9">
           <methods>
             <method name="get_Name" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -82,6 +82,36 @@
             <line number="23" hits="1" branch="False" />
             <line number="24" hits="1" branch="False" />
             <line number="26" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="Fixture.FixtureClass" filename="FixtureClass.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="1" branch="False" />
+                <line number="8" hits="1" branch="False" />
+                <line number="9" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="2" branch="False" />
+            <line number="12" hits="2" branch="False" />
+            <line number="7" hits="1" branch="False" />
+            <line number="8" hits="1" branch="False" />
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
           </lines>
         </class>
       </classes>

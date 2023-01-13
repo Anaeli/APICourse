@@ -221,6 +221,7 @@ var assemblies = [
   {
     "name": "MyProject",
     "classes": [
+      { "name": "Fixture.FixtureClass", "rp": "MyProject_FixtureClass.html", "cl": 6, "ucl": 0, "cal": 6, "tl": 13, "ct": "LineCoverage", "cbm": "-", "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [] },
       { "name": "Student.Student", "rp": "MyProject_Student.html", "cl": 16, "ucl": 0, "cal": 16, "tl": 28, "ct": "LineCoverage", "cbm": "-", "cb": 2, "tb": 2, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [] },
     ]},
 ];
