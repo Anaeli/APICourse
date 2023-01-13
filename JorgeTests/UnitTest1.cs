@@ -12,7 +12,6 @@ public class UnitTest1
     [Fact]
     public void ValidateStrings()
     {
-        // Variables
         var student1 = new Student()
         {
             ID = 1,
@@ -22,7 +21,6 @@ public class UnitTest1
             Married = false
         };
 
-        // Assertions
         Assert.False(student1.Married);
         Assert.StartsWith("Ju", student1.Name);
         Assert.EndsWith("ez", student1.LastName);
@@ -34,12 +32,10 @@ public class UnitTest1
     [Fact]
     public void ValidateIntegers()
     {
-        // Variables
         int num = 42;
         DateTime d1 = new(2020, 2, 20);
         DateTime d2 = new(2020, 2, 25);
 
-        // Assertions
         Assert.True(num >= 42);
         Assert.True(num < 50);
         Assert.InRange(num, 40, 50);
@@ -50,7 +46,6 @@ public class UnitTest1
     [Fact]
     public void ValidateLists()
     {
-        //Variables
         Student student1 = new();
         student1.Name = "Ana";
         student1.LastName = "Martinez";
@@ -67,7 +62,6 @@ public class UnitTest1
         List<Student> studentList2 = new() { student1, };
         List<Student> studentList3 = new() { student1, student3, student4, };
 
-        //Asserts
         Assert.Equal(studentList, studentList1);
         Assert.NotEqual(studentList, studentList2);
         Assert.Equal(2, studentList.Count);
@@ -114,7 +108,57 @@ public class UnitTest1
     [MemberData("AdditionDataFromCsv")]
     public void TestAdditionFromCsv(int a, int b, int expectedResult)
     {
-        // Assert
         Assert.Equal(expectedResult, a + b);
+    }
+
+    [CollectionDefinition("Fixture Collection")]
+    public class FixtureCollection : ICollectionFixture<FixtureClass> { }
+
+    public class FixtureClass
+    {
+        public Guid ID { get; set; }
+
+        public FixtureClass()
+        {
+            ID = Guid.NewGuid();
+        }
+    }
+
+    [Collection("Fixture Collection")]
+    public class FixtureTests1
+    {
+        private readonly FixtureClass _fixture;
+
+        public FixtureTests1(FixtureClass fixture)
+        {
+            _fixture = fixture;
+        }
+
+        [Fact]
+        public void TestMethod1()
+        {
+            var id1 = _fixture.ID;
+
+            Assert.NotEqual(Guid.Empty, id1);
+        }
+    }
+
+    [Collection("Fixture Collection")]
+    public class FixtureTests2
+    {
+        private readonly FixtureClass _fixture;
+
+        public FixtureTests2(FixtureClass fixture)
+        {
+            _fixture = fixture;
+        }
+
+        [Fact]
+        public void TestMethod2()
+        {
+            var id2 = _fixture.ID;
+
+            Assert.Equal(_fixture.ID, id2);
+        }
     }
 }
