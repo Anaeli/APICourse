@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="ade01c17-ee75-4575-acbd-5f5415ff977f" name="@MacBook-Pro-de-Joaquin 2023-01-13 10:59:57" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2023-01-13T10:59:57.0534490-03:00" queuing="2023-01-13T10:59:57.0534500-03:00" start="2023-01-13T10:59:54.4569160-03:00" finish="2023-01-13T10:59:57.1686510-03:00" />
+  <TestSettings name="default" id="a069042d-27b7-4a36-a5a4-4effc781d20d">
+    <Deployment runDeploymentRoot="_MacBook-Pro-de-Joaquin_2023-01-13_10_59_57" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="4e85f6f1-3d7e-4dae-9159-7a39a4ceee25" testId="9ddd9dd3-bf62-9fae-f7f5-de1a55da0010" testName="MyProjectTests.NumTest.TheyShouldNotBeEqual" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0077530" startTime="2023-01-13T10:59:56.9647010-03:00" endTime="2023-01-13T10:59:56.9647010-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e85f6f1-3d7e-4dae-9159-7a39a4ceee25" />
+    <UnitTestResult executionId="bb1c5ccd-a266-40c4-b3c8-7fbd9b5bb5a6" testId="0413ae5f-4512-b667-9558-fd6f5940e5a6" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithExternalData(x: 2, y: 2, expected: 4)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0000821" startTime="2023-01-13T10:59:56.9630810-03:00" endTime="2023-01-13T10:59:56.9630810-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bb1c5ccd-a266-40c4-b3c8-7fbd9b5bb5a6" />
+    <UnitTestResult executionId="3086d428-b2f4-49ad-8e8d-db5c0251ccec" testId="83b8958d-a266-1ded-955d-888304605d9a" testName="MyProjectTests.StudentTest.ItShouldNotContainTheSpecifiedLetters" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0100638" startTime="2023-01-13T10:59:56.9953520-03:00" endTime="2023-01-13T10:59:56.9953520-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3086d428-b2f4-49ad-8e8d-db5c0251ccec" />
+    <UnitTestResult executionId="019c39e6-dae5-44dc-bf5d-fa8826e648b7" testId="c00f6a15-8ae5-754a-86ae-d8853cd096fd" testName="MyProjectTests.StudentTest.ItShouldThrowAnExceptionIfNicknameIsNull" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0926370" startTime="2023-01-13T10:59:56.9880270-03:00" endTime="2023-01-13T10:59:56.9880270-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="019c39e6-dae5-44dc-bf5d-fa8826e648b7" />
+    <UnitTestResult executionId="df83214b-fded-49d1-a8c1-619b886904ba" testId="52ad9abe-8e27-7ffe-036c-94260cf6eb96" testName="MyProjectTests.StudentTest.ItShouldReturnFullName" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0064553" startTime="2023-01-13T10:59:56.8994540-03:00" endTime="2023-01-13T10:59:56.8994540-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df83214b-fded-49d1-a8c1-619b886904ba" />
+    <UnitTestResult executionId="75f2a528-d3c9-450c-a336-05609320fd06" testId="12aea3a1-e7c4-2723-230f-193964a164e3" testName="MyProjectTests.StudentTest.ItShouldReturnTheNickname" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0005230" startTime="2023-01-13T10:59:56.9009120-03:00" endTime="2023-01-13T10:59:56.9009120-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="75f2a528-d3c9-450c-a336-05609320fd06" />
+    <UnitTestResult executionId="8c4b546b-701f-4068-8ba5-acf67f5270f6" testId="5f98a7fb-9274-1d7e-f8d6-5abe36d33b61" testName="MyProjectTests.NumTest.ItShouldBeBetween40and50" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0018026" startTime="2023-01-13T10:59:56.9648070-03:00" endTime="2023-01-13T10:59:56.9648070-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c4b546b-701f-4068-8ba5-acf67f5270f6" />
+    <UnitTestResult executionId="f099d7f2-6e88-494d-be44-9adcd7737dd5" testId="923f299e-690b-7493-b485-89bac143ba8a" testName="MyProjectTests.StudentListTest.FirstListShouldHaveTwoElements" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0002515" startTime="2023-01-13T10:59:56.9632350-03:00" endTime="2023-01-13T10:59:56.9632350-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f099d7f2-6e88-494d-be44-9adcd7737dd5" />
+    <UnitTestResult executionId="4d1c0e5f-a19a-4033-acb7-50be03b6956a" testId="8b09603b-91be-6fcc-1c3f-43165352d0c5" testName="MyProjectTests.StudentTest.ItShouldBeTrue" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0003289" startTime="2023-01-13T10:59:56.9954670-03:00" endTime="2023-01-13T10:59:56.9954670-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d1c0e5f-a19a-4033-acb7-50be03b6956a" />
+    <UnitTestResult executionId="e40b770d-605f-422c-ae02-f645ec2af11c" testId="621e8472-c36d-c4ef-975c-e43a67d69603" testName="MyProjectTests.StudentListTest.ItShouldContainAStudentWithAge25" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0002946" startTime="2023-01-13T10:59:56.9632780-03:00" endTime="2023-01-13T10:59:56.9632780-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e40b770d-605f-422c-ae02-f645ec2af11c" />
+    <UnitTestResult executionId="5e177f24-6694-4332-a54d-366ddacce7c0" testId="c1703afd-f609-e615-f050-6552dc4edba3" testName="MyProjectTests.StudentListTest.ItShouldContainJuanPerez" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0012097" startTime="2023-01-13T10:59:56.9631810-03:00" endTime="2023-01-13T10:59:56.9631810-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5e177f24-6694-4332-a54d-366ddacce7c0" />
+    <UnitTestResult executionId="2bc9133b-4af5-4946-8f88-b17befae8d3b" testId="eb88f4c8-94a8-908d-0fbe-c2ab7ee71fc9" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInlineData(x: 0, y: 0, expected: 0)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0000249" startTime="2023-01-13T10:59:56.9009870-03:00" endTime="2023-01-13T10:59:56.9009870-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2bc9133b-4af5-4946-8f88-b17befae8d3b" />
+    <UnitTestResult executionId="40880f81-67c1-4ce7-8bd6-ef69f633d295" testId="dec8b688-e3fe-a783-732c-63bf6afb98a9" testName="MyProjectTests.StudentTest.ItShouldContainTheSpecifiedLetters" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0001852" startTime="2023-01-13T10:59:56.9955110-03:00" endTime="2023-01-13T10:59:56.9955110-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="40880f81-67c1-4ce7-8bd6-ef69f633d295" />
+    <UnitTestResult executionId="431c4565-7203-4fd5-bdd0-36f8ef65a777" testId="76a2d427-f092-4ac7-915b-3a4bc2120b36" testName="MyProjectTests.StudentListTest.ItShouldHaveUniqueElements" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0069957" startTime="2023-01-13T10:59:56.8995100-03:00" endTime="2023-01-13T10:59:56.8995110-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="431c4565-7203-4fd5-bdd0-36f8ef65a777" />
+    <UnitTestResult executionId="9f7f6a83-05d0-497f-81a2-716b99d74092" testId="a1fbe835-c0f9-71ca-2c68-1e2e30046613" testName="MyProjectTests.StudentListTest.List1andList2ShouldNotBeEquals" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0146601" startTime="2023-01-13T10:59:56.9631350-03:00" endTime="2023-01-13T10:59:56.9631350-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f7f6a83-05d0-497f-81a2-716b99d74092" />
+    <UnitTestResult executionId="e8a2b50e-e494-47ab-81f4-d04c9a74b21c" testId="29337ec9-c305-b7b7-b473-a015b8de52dd" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInternalData(x: 0, y: 0, expected: 0)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0000061" startTime="2023-01-13T10:59:56.9629730-03:00" endTime="2023-01-13T10:59:56.9629730-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8a2b50e-e494-47ab-81f4-d04c9a74b21c" />
+    <UnitTestResult executionId="bc9436f7-fb00-43d9-b6a3-bc23d14450ac" testId="b77bda9a-fbb2-ec41-3e54-e0677a2c7d34" testName="MyProjectTests.NumTest.TheyShouldBeEqualWithRange" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0073259" startTime="2023-01-13T10:59:56.9007280-03:00" endTime="2023-01-13T10:59:56.9007280-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc9436f7-fb00-43d9-b6a3-bc23d14450ac" />
+    <UnitTestResult executionId="72ed5247-f6b2-462f-acbb-04b79db311e4" testId="574cda9f-ee36-aa44-f72f-f1a3f7a49018" testName="MyProjectTests.StudentTest.ItShouldNotBeMarried" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0003264" startTime="2023-01-13T10:59:56.9954220-03:00" endTime="2023-01-13T10:59:56.9954220-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="72ed5247-f6b2-462f-acbb-04b79db311e4" />
+    <UnitTestResult executionId="3a3b37d9-7463-4242-b2d2-f09a38506b4c" testId="c09e926c-4922-20c5-0f32-805fc4f6f0fb" testName="MyProjectTests.NumTest.ItShouldBeLessThan50" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0002046" startTime="2023-01-13T10:59:56.9648530-03:00" endTime="2023-01-13T10:59:56.9648530-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a3b37d9-7463-4242-b2d2-f09a38506b4c" />
+    <UnitTestResult executionId="7056044f-5464-46d9-859b-460c8019eaf7" testId="9fc9e586-c3f1-f1ed-e9b2-9ec52540b66f" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInternalData(x: -4, y: -6, expected: -10)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0000044" startTime="2023-01-13T10:59:56.9630340-03:00" endTime="2023-01-13T10:59:56.9630340-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7056044f-5464-46d9-859b-460c8019eaf7" />
+    <UnitTestResult executionId="1e466b00-f267-426f-b734-fe7b85f9187c" testId="83ff42c2-16ec-2482-1f84-3870319ec7f6" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInternalData(x: 1, y: 2, expected: 3)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0000964" startTime="2023-01-13T10:59:56.9626700-03:00" endTime="2023-01-13T10:59:56.9626700-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e466b00-f267-426f-b734-fe7b85f9187c" />
+    <UnitTestResult executionId="6b3bb448-8a46-461e-93ad-7cf691e8d21c" testId="8a84cd8f-4fc6-0490-2601-bad6f5989810" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInlineData(x: 4, y: 5, expected: 9)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0000053" startTime="2023-01-13T10:59:56.9014150-03:00" endTime="2023-01-13T10:59:56.9014160-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b3bb448-8a46-461e-93ad-7cf691e8d21c" />
+    <UnitTestResult executionId="ec200503-8098-46b7-8316-ba2da1ad4e72" testId="dd256364-586d-e6e2-62ea-8fdc10a768bd" testName="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInlineData(x: -4, y: -3, expected: -7)" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0063884" startTime="2023-01-13T10:59:56.8927640-03:00" endTime="2023-01-13T10:59:56.8928080-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec200503-8098-46b7-8316-ba2da1ad4e72" />
+    <UnitTestResult executionId="942e9c39-60fc-4a5a-9a3f-badf209aebf0" testId="c3200a1f-6a1b-8566-cae1-7e4bc876c028" testName="MyProjectTests.NumTest.ItShouldBeGreaterOrEqualto42" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0005071" startTime="2023-01-13T10:59:56.9647620-03:00" endTime="2023-01-13T10:59:56.9647630-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="942e9c39-60fc-4a5a-9a3f-badf209aebf0" />
+    <UnitTestResult executionId="1c906ac5-300e-4408-a982-ecd78655ffc9" testId="25b08933-63de-dcc0-a447-d96e0ba0c3a8" testName="MyProjectTests.StudentListTest.FirstListAndSecondListShouldBeEquals" computerName="MacBook-Pro-de-Joaquin" duration="00:00:00.0003810" startTime="2023-01-13T10:59:56.9633200-03:00" endTime="2023-01-13T10:59:56.9633200-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c906ac5-300e-4408-a982-ecd78655ffc9" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="MyProjectTests.NumTest.ItShouldBeGreaterOrEqualto42" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="c3200a1f-6a1b-8566-cae1-7e4bc876c028">
+      <Execution id="942e9c39-60fc-4a5a-9a3f-badf209aebf0" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.NumTest" name="ItShouldBeGreaterOrEqualto42" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInlineData(x: 0, y: 0, expected: 0)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="eb88f4c8-94a8-908d-0fbe-c2ab7ee71fc9">
+      <Execution id="2bc9133b-4af5-4946-8f88-b17befae8d3b" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithInlineData" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentListTest.ItShouldContainAStudentWithAge25" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="621e8472-c36d-c4ef-975c-e43a67d69603">
+      <Execution id="e40b770d-605f-422c-ae02-f645ec2af11c" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentListTest" name="ItShouldContainAStudentWithAge25" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.NumTest.ItShouldBeLessThan50" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="c09e926c-4922-20c5-0f32-805fc4f6f0fb">
+      <Execution id="3a3b37d9-7463-4242-b2d2-f09a38506b4c" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.NumTest" name="ItShouldBeLessThan50" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.NumTest.ItShouldBeBetween40and50" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="5f98a7fb-9274-1d7e-f8d6-5abe36d33b61">
+      <Execution id="8c4b546b-701f-4068-8ba5-acf67f5270f6" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.NumTest" name="ItShouldBeBetween40and50" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.NumTest.TheyShouldNotBeEqual" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="9ddd9dd3-bf62-9fae-f7f5-de1a55da0010">
+      <Execution id="4e85f6f1-3d7e-4dae-9159-7a39a4ceee25" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.NumTest" name="TheyShouldNotBeEqual" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentListTest.List1andList2ShouldNotBeEquals" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="a1fbe835-c0f9-71ca-2c68-1e2e30046613">
+      <Execution id="9f7f6a83-05d0-497f-81a2-716b99d74092" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentListTest" name="List1andList2ShouldNotBeEquals" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithExternalData(x: 2, y: 2, expected: 4)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="0413ae5f-4512-b667-9558-fd6f5940e5a6">
+      <Execution id="bb1c5ccd-a266-40c4-b3c8-7fbd9b5bb5a6" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithExternalData" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInternalData(x: 0, y: 0, expected: 0)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="29337ec9-c305-b7b7-b473-a015b8de52dd">
+      <Execution id="e8a2b50e-e494-47ab-81f4-d04c9a74b21c" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithInternalData" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldReturnTheNickname" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="12aea3a1-e7c4-2723-230f-193964a164e3">
+      <Execution id="75f2a528-d3c9-450c-a336-05609320fd06" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldReturnTheNickname" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.NumTest.TheyShouldBeEqualWithRange" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="b77bda9a-fbb2-ec41-3e54-e0677a2c7d34">
+      <Execution id="bc9436f7-fb00-43d9-b6a3-bc23d14450ac" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.NumTest" name="TheyShouldBeEqualWithRange" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldReturnFullName" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="52ad9abe-8e27-7ffe-036c-94260cf6eb96">
+      <Execution id="df83214b-fded-49d1-a8c1-619b886904ba" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldReturnFullName" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldNotContainTheSpecifiedLetters" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="83b8958d-a266-1ded-955d-888304605d9a">
+      <Execution id="3086d428-b2f4-49ad-8e8d-db5c0251ccec" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldNotContainTheSpecifiedLetters" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentListTest.FirstListShouldHaveTwoElements" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="923f299e-690b-7493-b485-89bac143ba8a">
+      <Execution id="f099d7f2-6e88-494d-be44-9adcd7737dd5" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentListTest" name="FirstListShouldHaveTwoElements" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentListTest.ItShouldHaveUniqueElements" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="76a2d427-f092-4ac7-915b-3a4bc2120b36">
+      <Execution id="431c4565-7203-4fd5-bdd0-36f8ef65a777" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentListTest" name="ItShouldHaveUniqueElements" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInternalData(x: 1, y: 2, expected: 3)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="83ff42c2-16ec-2482-1f84-3870319ec7f6">
+      <Execution id="1e466b00-f267-426f-b734-fe7b85f9187c" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithInternalData" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInlineData(x: 4, y: 5, expected: 9)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="8a84cd8f-4fc6-0490-2601-bad6f5989810">
+      <Execution id="6b3bb448-8a46-461e-93ad-7cf691e8d21c" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithInlineData" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldNotBeMarried" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="574cda9f-ee36-aa44-f72f-f1a3f7a49018">
+      <Execution id="72ed5247-f6b2-462f-acbb-04b79db311e4" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldNotBeMarried" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldThrowAnExceptionIfNicknameIsNull" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="c00f6a15-8ae5-754a-86ae-d8853cd096fd">
+      <Execution id="019c39e6-dae5-44dc-bf5d-fa8826e648b7" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldThrowAnExceptionIfNicknameIsNull" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInternalData(x: -4, y: -6, expected: -10)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="9fc9e586-c3f1-f1ed-e9b2-9ec52540b66f">
+      <Execution id="7056044f-5464-46d9-859b-460c8019eaf7" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithInternalData" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldBeTrue" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="8b09603b-91be-6fcc-1c3f-43165352d0c5">
+      <Execution id="4d1c0e5f-a19a-4033-acb7-50be03b6956a" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldBeTrue" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentListTest.ItShouldContainJuanPerez" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="c1703afd-f609-e615-f050-6552dc4edba3">
+      <Execution id="5e177f24-6694-4332-a54d-366ddacce7c0" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentListTest" name="ItShouldContainJuanPerez" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentTest.ItShouldContainTheSpecifiedLetters" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="dec8b688-e3fe-a783-732c-63bf6afb98a9">
+      <Execution id="40880f81-67c1-4ce7-8bd6-ef69f633d295" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentTest" name="ItShouldContainTheSpecifiedLetters" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.StudentListTest.FirstListAndSecondListShouldBeEquals" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="25b08933-63de-dcc0-a447-d96e0ba0c3a8">
+      <Execution id="1c906ac5-300e-4408-a982-ecd78655ffc9" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.StudentListTest" name="FirstListAndSecondListShouldBeEquals" />
+    </UnitTest>
+    <UnitTest name="MyProjectTests.AddTest.ItShouldReturnEqualsResultsWithInlineData(x: -4, y: -3, expected: -7)" storage="/users/joaco/desktop/henry/jalasoft/apicourse/mysolution/tests/myprojecttests/bin/debug/net6.0/myprojecttests.dll" id="dd256364-586d-e6e2-62ea-8fdc10a768bd">
+      <Execution id="ec200503-8098-46b7-8316-ba2da1ad4e72" />
+      <TestMethod codeBase="/Users/joaco/Desktop/Henry/Jalasoft/APICourse/MySolution/tests/MyProjectTests/bin/Debug/net6.0/MyProjectTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="MyProjectTests.AddTest" name="ItShouldReturnEqualsResultsWithInlineData" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="9ddd9dd3-bf62-9fae-f7f5-de1a55da0010" executionId="4e85f6f1-3d7e-4dae-9159-7a39a4ceee25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0413ae5f-4512-b667-9558-fd6f5940e5a6" executionId="bb1c5ccd-a266-40c4-b3c8-7fbd9b5bb5a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83b8958d-a266-1ded-955d-888304605d9a" executionId="3086d428-b2f4-49ad-8e8d-db5c0251ccec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c00f6a15-8ae5-754a-86ae-d8853cd096fd" executionId="019c39e6-dae5-44dc-bf5d-fa8826e648b7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52ad9abe-8e27-7ffe-036c-94260cf6eb96" executionId="df83214b-fded-49d1-a8c1-619b886904ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12aea3a1-e7c4-2723-230f-193964a164e3" executionId="75f2a528-d3c9-450c-a336-05609320fd06" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f98a7fb-9274-1d7e-f8d6-5abe36d33b61" executionId="8c4b546b-701f-4068-8ba5-acf67f5270f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="923f299e-690b-7493-b485-89bac143ba8a" executionId="f099d7f2-6e88-494d-be44-9adcd7737dd5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8b09603b-91be-6fcc-1c3f-43165352d0c5" executionId="4d1c0e5f-a19a-4033-acb7-50be03b6956a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="621e8472-c36d-c4ef-975c-e43a67d69603" executionId="e40b770d-605f-422c-ae02-f645ec2af11c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1703afd-f609-e615-f050-6552dc4edba3" executionId="5e177f24-6694-4332-a54d-366ddacce7c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eb88f4c8-94a8-908d-0fbe-c2ab7ee71fc9" executionId="2bc9133b-4af5-4946-8f88-b17befae8d3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dec8b688-e3fe-a783-732c-63bf6afb98a9" executionId="40880f81-67c1-4ce7-8bd6-ef69f633d295" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76a2d427-f092-4ac7-915b-3a4bc2120b36" executionId="431c4565-7203-4fd5-bdd0-36f8ef65a777" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1fbe835-c0f9-71ca-2c68-1e2e30046613" executionId="9f7f6a83-05d0-497f-81a2-716b99d74092" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29337ec9-c305-b7b7-b473-a015b8de52dd" executionId="e8a2b50e-e494-47ab-81f4-d04c9a74b21c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b77bda9a-fbb2-ec41-3e54-e0677a2c7d34" executionId="bc9436f7-fb00-43d9-b6a3-bc23d14450ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="574cda9f-ee36-aa44-f72f-f1a3f7a49018" executionId="72ed5247-f6b2-462f-acbb-04b79db311e4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c09e926c-4922-20c5-0f32-805fc4f6f0fb" executionId="3a3b37d9-7463-4242-b2d2-f09a38506b4c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9fc9e586-c3f1-f1ed-e9b2-9ec52540b66f" executionId="7056044f-5464-46d9-859b-460c8019eaf7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83ff42c2-16ec-2482-1f84-3870319ec7f6" executionId="1e466b00-f267-426f-b734-fe7b85f9187c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a84cd8f-4fc6-0490-2601-bad6f5989810" executionId="6b3bb448-8a46-461e-93ad-7cf691e8d21c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dd256364-586d-e6e2-62ea-8fdc10a768bd" executionId="ec200503-8098-46b7-8316-ba2da1ad4e72" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3200a1f-6a1b-8566-cae1-7e4bc876c028" executionId="942e9c39-60fc-4a5a-9a3f-badf209aebf0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="25b08933-63de-dcc0-a447-d96e0ba0c3a8" executionId="1c906ac5-300e-4408-a982-ecd78655ffc9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="25" executed="25" passed="25" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 6.0.10)
+[xUnit.net 00:00:00.92]   Discovering: MyProjectTests
+[xUnit.net 00:00:01.06]   Discovered:  MyProjectTests
+[xUnit.net 00:00:01.07]   Starting:    MyProjectTests
+[xUnit.net 00:00:01.29]   Finished:    MyProjectTests
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
