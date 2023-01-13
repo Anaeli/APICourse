@@ -10,3 +10,15 @@
 /home/jorgech/Documents/API Testing/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.dll
 /home/jorgech/Documents/API Testing/Jorge-HW1/obj/Debug/net6.0/ref/Jorge-HW1.dll
 /home/jorgech/Documents/API Testing/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.pdb
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/bin/Debug/net6.0/Jorge-HW1.deps.json
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/bin/Debug/net6.0/Jorge-HW1.dll
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/bin/Debug/net6.0/ref/Jorge-HW1.dll
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/bin/Debug/net6.0/Jorge-HW1.pdb
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.csproj.AssemblyReference.cache
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.AssemblyInfoInputs.cache
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.AssemblyInfo.cs
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.csproj.CoreCompileInputs.cache
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.dll
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/ref/Jorge-HW1.dll
+/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/Debug/net6.0/Jorge-HW1.pdb

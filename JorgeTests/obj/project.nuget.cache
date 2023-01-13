@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4ls90UuakBWccWsEmcHt8TPOprzzxdl7xvaSRzGX6foi3bCuuFnL1mstfMhADT+g6I0G6fdolwnZC5NGuB4CA==",
+  "dgSpecHash": "9ebloCm2758/RweHu9521jfyDeI359CyuUY6m+Jv2oIRwFcAjQk4AuKi0Oe4vih7g0O93wRbXRSZ8QUvtX7AZw==",
   "success": true,
-  "projectFilePath": "/home/jorgech/Documents/API Testing/JorgeTests/JorgeTests.csproj",
+  "projectFilePath": "/home/jorgech/Documents/API Testing/APICourse/JorgeTests/JorgeTests.csproj",
   "expectedPackageFiles": [
     "/home/jorgech/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/home/jorgech/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",

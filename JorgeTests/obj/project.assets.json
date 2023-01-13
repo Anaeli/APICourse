@@ -5994,11 +5994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jorgech/Documents/API Testing/JorgeTests/JorgeTests.csproj",
+      "projectUniqueName": "/home/jorgech/Documents/API Testing/APICourse/JorgeTests/JorgeTests.csproj",
       "projectName": "JorgeTests",
-      "projectPath": "/home/jorgech/Documents/API Testing/JorgeTests/JorgeTests.csproj",
+      "projectPath": "/home/jorgech/Documents/API Testing/APICourse/JorgeTests/JorgeTests.csproj",
       "packagesPath": "/home/jorgech/.nuget/packages/",
-      "outputPath": "/home/jorgech/Documents/API Testing/JorgeTests/obj/",
+      "outputPath": "/home/jorgech/Documents/API Testing/APICourse/JorgeTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jorgech/.nuget/NuGet/NuGet.Config"
@@ -6013,8 +6013,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/jorgech/Documents/API Testing/Jorge-HW1/Jorge-HW1.csproj": {
-              "projectPath": "/home/jorgech/Documents/API Testing/Jorge-HW1/Jorge-HW1.csproj"
+            "/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/Jorge-HW1.csproj": {
+              "projectPath": "/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/Jorge-HW1.csproj"
             }
           }
         }

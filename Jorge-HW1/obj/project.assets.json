@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jorgech/Documents/API Testing/Jorge-HW1/Jorge-HW1.csproj",
+      "projectUniqueName": "/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/Jorge-HW1.csproj",
       "projectName": "Jorge-HW1",
-      "projectPath": "/home/jorgech/Documents/API Testing/Jorge-HW1/Jorge-HW1.csproj",
+      "projectPath": "/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/Jorge-HW1.csproj",
       "packagesPath": "/home/jorgech/.nuget/packages/",
-      "outputPath": "/home/jorgech/Documents/API Testing/Jorge-HW1/obj/",
+      "outputPath": "/home/jorgech/Documents/API Testing/APICourse/Jorge-HW1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jorgech/.nuget/NuGet/NuGet.Config"
