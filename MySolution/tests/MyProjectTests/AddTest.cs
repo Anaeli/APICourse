@@ -1,12 +1,8 @@
 namespace MyProjectTests;
 
 using Xunit;
-using System;
 using System.Collections.Generic;
-using System.Reflection;
-using System.IO;
 using CsvData;
-using System.Linq;
 
 public class AddTest
 {
