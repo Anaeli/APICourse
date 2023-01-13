@@ -81,10 +81,20 @@ public class UnitTest1
     [InlineData(-1, -2, -3)]
     public void InlineData(int a, int b, int expectedResult)
     {
-        // Act
-        var result = a + b;
+        Assert.Equal(expectedResult, a + b);
+    }
 
-        // Assert
-        Assert.Equal(expectedResult, result);
+    public static IEnumerable<object[]> AdditionDataSet()
+    {
+        yield return new object[] { 20, 20, 40 };
+        yield return new object[] { -2, -12, -14 };
+        yield return new object[] { -20, 40, 20 };
+    }
+
+    [Theory]
+    [MemberData(nameof(AdditionDataSet))]
+    public void ItShouldReturnEqualsResultsWithInternalData(int x, int y, int expectedResult)
+    {
+        Assert.Equal(expectedResult, x + y);
     }
 }
