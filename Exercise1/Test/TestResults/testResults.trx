@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="d65c5e82-0026-4827-9f7f-97968d6d3f80" name="Mi DELL@DESKTOP-IE0IFMA 2023-01-13 05:30:39" runUser="DESKTOP-IE0IFMA\Mi DELL" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2023-01-13T05:30:39.4806947-04:00" queuing="2023-01-13T05:30:39.4806949-04:00" start="2023-01-13T05:30:37.6968790-04:00" finish="2023-01-13T05:30:39.5326754-04:00" />
+  <TestSettings name="default" id="4d244ce1-17d3-47ae-9716-305817777448">
+    <Deployment runDeploymentRoot="Mi_DELL_DESKTOP-IE0IFMA_2023-01-13_05_30_39" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="0e59d6e6-52c5-48b3-b0ac-d2f2e9143ffd" testId="7f109bc9-0e2a-640b-b05a-d542eca0b8d3" testName="Student.List.Test.StudentListTest.StudentList3ShouldNotHaveRepeatedElements" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002111" startTime="2023-01-13T05:30:39.4188622-04:00" endTime="2023-01-13T05:30:39.4188623-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e59d6e6-52c5-48b3-b0ac-d2f2e9143ffd" />
+    <UnitTestResult executionId="227fbe69-21b3-44df-842d-48cbdc04f168" testId="1f997b27-65df-b9c3-03bc-0051d769b860" testName="Calculator.CalculatorTests.UsingOnlyInlineData(num1: 3, num2: 4, expectedSum: 7)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000085" startTime="2023-01-13T05:30:39.4150130-04:00" endTime="2023-01-13T05:30:39.4150130-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="227fbe69-21b3-44df-842d-48cbdc04f168" />
+    <UnitTestResult executionId="2b22522a-48f1-43b8-ba7f-8ec26da3af9d" testId="3e8a7121-a590-c258-6881-ba37034b12a8" testName="Student.Test.StudentTest.NameShouldEndWith" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0005903" startTime="2023-01-13T05:30:39.4175710-04:00" endTime="2023-01-13T05:30:39.4175711-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b22522a-48f1-43b8-ba7f-8ec26da3af9d" />
+    <UnitTestResult executionId="ad81da60-48b9-4c59-8354-05d89d7008f5" testId="4ebfb2a7-de50-7f1b-3ce3-8a486a84f451" testName="Student.Test.StudentTest.NameShouldContain" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0205230" startTime="2023-01-13T05:30:39.4174740-04:00" endTime="2023-01-13T05:30:39.4174740-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad81da60-48b9-4c59-8354-05d89d7008f5" />
+    <UnitTestResult executionId="8155a7fa-2d2c-4fb9-ac2a-768ba81cdd81" testId="5cd4fa5f-afe7-561c-5669-1af4f953448b" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: -5, num2: -7, expectedSum: -12)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000058" startTime="2023-01-13T05:30:39.4162875-04:00" endTime="2023-01-13T05:30:39.4162875-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8155a7fa-2d2c-4fb9-ac2a-768ba81cdd81" />
+    <UnitTestResult executionId="4f491623-4185-4f85-bd36-d59cd28eedbf" testId="1a4594f3-a8c1-c4c0-5e6b-5fbbe37172f7" testName="NumbersAndDates.Test.NumbersAndDatesTest.BothDatesShouldBeInARangeOf8Days" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0001242" startTime="2023-01-13T05:30:39.3608295-04:00" endTime="2023-01-13T05:30:39.3608296-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f491623-4185-4f85-bd36-d59cd28eedbf" />
+    <UnitTestResult executionId="61c183a2-c768-491f-926c-4163f452a61f" testId="be4ca8f1-120f-152c-8990-8c619244730f" testName="Student.Test.StudentTest.ShouldNotBeMarried" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002556" startTime="2023-01-13T05:30:39.4175235-04:00" endTime="2023-01-13T05:30:39.4175236-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="61c183a2-c768-491f-926c-4163f452a61f" />
+    <UnitTestResult executionId="a419d062-bc90-4ae8-a3fb-6947221c1180" testId="1c0d3584-490d-505b-c760-b905cf19ebad" testName="Calculator.CalculatorTests.Test_Addition(x: 4, y: 5, expected: 9)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0001405" startTime="2023-01-13T05:30:39.4126311-04:00" endTime="2023-01-13T05:30:39.4126311-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a419d062-bc90-4ae8-a3fb-6947221c1180" />
+    <UnitTestResult executionId="e37fd044-ba9f-4e62-951e-a9bd683dc153" testId="5df3e503-3ba9-1f67-6199-11f8c6400ea8" testName="Calculator.CalculatorTests.Test_Addition(x: 1, y: 2, expected: 3)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000072" startTime="2023-01-13T05:30:39.4127159-04:00" endTime="2023-01-13T05:30:39.4127159-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e37fd044-ba9f-4e62-951e-a9bd683dc153" />
+    <UnitTestResult executionId="b38b6305-8b2f-4968-8be4-3f7c56ed940b" testId="5fb10982-0ce8-2a42-dcb3-d1cc3e27274e" testName="Calculator.CalculatorTests.UsingMemberData(num1: 3, num2: 4, expectedSum: 7)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000054" startTime="2023-01-13T05:30:39.4164488-04:00" endTime="2023-01-13T05:30:39.4164488-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b38b6305-8b2f-4968-8be4-3f7c56ed940b" />
+    <UnitTestResult executionId="7993f577-b103-4669-8217-69a89de923a0" testId="1c4147f2-8d9d-701e-2bd1-b716c29cbca9" testName="Student.Test.StudentTest.NameShouldNotContain" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002001" startTime="2023-01-13T05:30:39.4176660-04:00" endTime="2023-01-13T05:30:39.4176661-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7993f577-b103-4669-8217-69a89de923a0" />
+    <UnitTestResult executionId="57e49232-9c93-4268-8214-a763ed87ec8e" testId="26cc9b08-0a3e-a6bb-cc9d-6c85ba289cc7" testName="Calculator.CalculatorTests.UsingMemberData(num1: 5, num2: 0, expectedSum: 5)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000052" startTime="2023-01-13T05:30:39.4165275-04:00" endTime="2023-01-13T05:30:39.4165276-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57e49232-9c93-4268-8214-a763ed87ec8e" />
+    <UnitTestResult executionId="1b53fc01-065e-4c37-a268-c812944cf2cf" testId="e31eac35-4906-2f79-11ed-d303b6219fe1" testName="Calculator.CalculatorTests.UsingOnlyInlineData(num1: -23, num2: 0, expectedSum: -23)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000067" startTime="2023-01-13T05:30:39.4150987-04:00" endTime="2023-01-13T05:30:39.4150988-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1b53fc01-065e-4c37-a268-c812944cf2cf" />
+    <UnitTestResult executionId="230d1a52-3fa2-40dc-955a-3bc5be5b9687" testId="c77754a2-4b31-84b8-2747-799a47841517" testName="Data driven - ExternalAdditionData(num1: 1, num2: 2, expected: 3)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000252" startTime="2023-01-13T05:30:39.3603618-04:00" endTime="2023-01-13T05:30:39.3603619-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="230d1a52-3fa2-40dc-955a-3bc5be5b9687" />
+    <UnitTestResult executionId="a0f9e8c1-4809-4e61-b7bf-45fb86e15e67" testId="37f4fa58-da74-119f-9712-c09c2cc498a2" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 0, num2: 0, expectedSum: 0)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000059" startTime="2023-01-13T05:30:39.4163240-04:00" endTime="2023-01-13T05:30:39.4163241-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0f9e8c1-4809-4e61-b7bf-45fb86e15e67" />
+    <UnitTestResult executionId="71012a55-9318-48be-b1ee-9551ea1c092c" testId="d61166c4-0c01-3376-9421-a20820e85f21" testName="IClassFix.IClassFixTest.Test1" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0001168" startTime="2023-01-13T05:30:39.3607922-04:00" endTime="2023-01-13T05:30:39.3607927-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71012a55-9318-48be-b1ee-9551ea1c092c" />
+    <UnitTestResult executionId="d7f35634-84a9-4009-a6be-854f90d831fe" testId="a549c648-9337-1fdf-9b78-664a1e863e4d" testName="Data driven - DataAttribute(num1: 0, num2: 0, expected: 0)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000076" startTime="2023-01-13T05:30:39.4125151-04:00" endTime="2023-01-13T05:30:39.4125152-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d7f35634-84a9-4009-a6be-854f90d831fe" />
+    <UnitTestResult executionId="ef9b09fd-1d67-4aaf-b2ad-3a9822e89aa3" testId="6ff0212b-c5f0-25e4-4614-7c1195069c56" testName="Calculator.CalculatorTests.UsingOnlyInlineData(num1: 0, num2: 0, expectedSum: 0)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000066" startTime="2023-01-13T05:30:39.4150583-04:00" endTime="2023-01-13T05:30:39.4150584-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef9b09fd-1d67-4aaf-b2ad-3a9822e89aa3" />
+    <UnitTestResult executionId="3fe4b683-ebec-44f5-b625-44988ab321cb" testId="839db7ce-4e47-3f3f-5149-ba84c0bda82a" testName="Student.Test.StudentTest.NickNameShouldThrowNullException" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0008571" startTime="2023-01-13T05:30:39.4176186-04:00" endTime="2023-01-13T05:30:39.4176187-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3fe4b683-ebec-44f5-b625-44988ab321cb" />
+    <UnitTestResult executionId="4f53823f-e837-4728-ae31-d9e2dbf043d9" testId="1b7748d2-4c19-6193-3e18-8eaa198a31c1" testName="NumbersAndDates.Test.NumbersAndDatesTest.NumberShouldBeGreaterOrEqualTo42" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0030187" startTime="2023-01-13T05:30:39.3522346-04:00" endTime="2023-01-13T05:30:39.3522654-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f53823f-e837-4728-ae31-d9e2dbf043d9" />
+    <UnitTestResult executionId="a64b76c1-4188-45ea-ad1d-476047956e7b" testId="d80fb929-709a-634a-42d5-1c2e9d5061bb" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 5, num2: 0, expectedSum: 5)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000074" startTime="2023-01-13T05:30:39.4152791-04:00" endTime="2023-01-13T05:30:39.4152791-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a64b76c1-4188-45ea-ad1d-476047956e7b" />
+    <UnitTestResult executionId="53797b26-67ff-4022-97ee-127af9273b6f" testId="cdbbd52a-317c-24ee-636f-6d172458dfe5" testName="NumbersAndDates.Test.NumbersAndDatesTest.NumberShouldBeLessThan50" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000579" startTime="2023-01-13T05:30:39.4120929-04:00" endTime="2023-01-13T05:30:39.4120930-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53797b26-67ff-4022-97ee-127af9273b6f" />
+    <UnitTestResult executionId="005fda9a-85ac-4a5f-8ac5-f89d16bb042d" testId="9b6654dc-5b14-909f-c520-0ce81994e2d9" testName="NumbersAndDates.Test.NumbersAndDatesTest.BothDatesShouldNotBeEqual" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0043225" startTime="2023-01-13T05:30:39.4123376-04:00" endTime="2023-01-13T05:30:39.4123377-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="005fda9a-85ac-4a5f-8ac5-f89d16bb042d" />
+    <UnitTestResult executionId="8974bac8-0366-4421-ba66-0d85538a04a4" testId="27c600ff-c3a5-ba1a-114e-274c09a4ac3c" testName="Calculator.CalculatorTests.Test_Addition(x: -2, y: 3, expected: 1)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000077" startTime="2023-01-13T05:30:39.4126736-04:00" endTime="2023-01-13T05:30:39.4126736-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8974bac8-0366-4421-ba66-0d85538a04a4" />
+    <UnitTestResult executionId="5773632f-a756-4a0d-b06e-1aab582e76b5" testId="09f4fd82-df2f-8d87-5320-1532631d8646" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 3, num2: 4, expectedSum: 7)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000061" startTime="2023-01-13T05:30:39.4161884-04:00" endTime="2023-01-13T05:30:39.4161885-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5773632f-a756-4a0d-b06e-1aab582e76b5" />
+    <UnitTestResult executionId="2c1f02d8-4b31-46ac-8d56-dd90c31c162b" testId="335ed941-b6ad-a797-a86c-e2bdafd6f330" testName="Data driven - DataAttribute(num1: 1, num2: 2, expected: 3)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000059" startTime="2023-01-13T05:30:39.4125561-04:00" endTime="2023-01-13T05:30:39.4125561-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c1f02d8-4b31-46ac-8d56-dd90c31c162b" />
+    <UnitTestResult executionId="607704da-f830-4c90-b7b0-79baf421e043" testId="0b6a64cd-1314-893b-aa07-5f2602c33a21" testName="Calculator.CalculatorTests.UsingOnlyInlineData(num1: -3, num2: -4, expectedSum: -7)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000052" startTime="2023-01-13T05:30:39.4151828-04:00" endTime="2023-01-13T05:30:39.4151829-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="607704da-f830-4c90-b7b0-79baf421e043" />
+    <UnitTestResult executionId="61c12613-e884-428c-8762-1c514a9ce32b" testId="036216d7-f829-4720-28e6-7449390a77ef" testName="Calculator.CalculatorTests.UsingMemberData(num1: 0, num2: 0, expectedSum: 0)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000065" startTime="2023-01-13T05:30:39.4164107-04:00" endTime="2023-01-13T05:30:39.4164107-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="61c12613-e884-428c-8762-1c514a9ce32b" />
+    <UnitTestResult executionId="977c9153-3b60-4f05-9ca0-e4d8999a2e84" testId="831c4d3e-bd56-95f5-dcd9-afcff268ca7c" testName="Student.Test.StudentTest.NameShouldStartWith" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0032364" startTime="2023-01-13T05:30:39.3594763-04:00" endTime="2023-01-13T05:30:39.3594763-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="977c9153-3b60-4f05-9ca0-e4d8999a2e84" />
+    <UnitTestResult executionId="788479bf-9885-47ff-8d2f-52951545691c" testId="1ed78dd9-8ae5-3fee-3a63-797bff641128" testName="Student.List.Test.StudentListTest.StudentList3ShouldHaveAStudentWith25Years" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002651" startTime="2023-01-13T05:30:39.4177970-04:00" endTime="2023-01-13T05:30:39.4177971-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="788479bf-9885-47ff-8d2f-52951545691c" />
+    <UnitTestResult executionId="3775585b-0b09-400c-97aa-7c738c8db424" testId="e22fbc2a-efa6-9784-4169-43e038e69938" testName="Calculator.CalculatorTests.UsingOnlyInlineData(num1: 3, num2: 0, expectedSum: 3)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000060" startTime="2023-01-13T05:30:39.4151399-04:00" endTime="2023-01-13T05:30:39.4151399-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3775585b-0b09-400c-97aa-7c738c8db424" />
+    <UnitTestResult executionId="6f44992f-ea0f-49a3-b3fe-f728589137bc" testId="98143ea5-160d-1559-22a6-831f09f98662" testName="Data driven - ExternalAdditionData(num1: 2, num2: 3, expected: 5)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0044363" startTime="2023-01-13T05:30:39.3594174-04:00" endTime="2023-01-13T05:30:39.3594175-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f44992f-ea0f-49a3-b3fe-f728589137bc" />
+    <UnitTestResult executionId="50a0bdff-b082-4b65-aaf2-117ad6b56e53" testId="5af8b50f-20b0-75c6-8682-86a64989bfd0" testName="Calculator.CalculatorTests.UsingMemberData(num1: 5, num2: 7, expectedSum: 12)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0001013" startTime="2023-01-13T05:30:39.4163693-04:00" endTime="2023-01-13T05:30:39.4163694-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50a0bdff-b082-4b65-aaf2-117ad6b56e53" />
+    <UnitTestResult executionId="a0e9ffba-8e8d-4d15-84d1-2d4060a42a1e" testId="6a491d04-dea2-5031-82aa-a8c142a77c5e" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 0, num2: 1, expectedSum: 1)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000058" startTime="2023-01-13T05:30:39.4153191-04:00" endTime="2023-01-13T05:30:39.4153192-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0e9ffba-8e8d-4d15-84d1-2d4060a42a1e" />
+    <UnitTestResult executionId="3903ee61-b855-442f-8fae-ac6d5e5a45c9" testId="a0ca6b29-7fc5-75f4-8610-52feda3faf46" testName="Calculator.CalculatorTests.UsingOnlyInlineData(num1: -5, num2: 8, expectedSum: 3)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000931" startTime="2023-01-13T05:30:39.4149550-04:00" endTime="2023-01-13T05:30:39.4149550-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3903ee61-b855-442f-8fae-ac6d5e5a45c9" />
+    <UnitTestResult executionId="392ba96e-4ede-47cb-8a16-06ce31405670" testId="a7e44a59-8f91-cc93-23c4-ef8d7fd7a6b7" testName="Calculator.CalculatorTests.UsingMemberData(num1: -3, num2: -4, expectedSum: -7)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000052" startTime="2023-01-13T05:30:39.4174260-04:00" endTime="2023-01-13T05:30:39.4174261-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="392ba96e-4ede-47cb-8a16-06ce31405670" />
+    <UnitTestResult executionId="f29a5158-e14e-4c79-bb80-c40cd50172f6" testId="95c7455e-f450-5872-5d74-9032c04d627d" testName="NumbersAndDates.Test.NumbersAndDatesTest.NumberShouldBeBetween40And50" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000745" startTime="2023-01-13T05:30:39.3604995-04:00" endTime="2023-01-13T05:30:39.3604996-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f29a5158-e14e-4c79-bb80-c40cd50172f6" />
+    <UnitTestResult executionId="e2ac26e1-8141-4a43-9627-d103912b77de" testId="4ccf94eb-3305-033f-df0b-e910307adb81" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: -3, num2: -4, expectedSum: -7)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000946" startTime="2023-01-13T05:30:39.4152379-04:00" endTime="2023-01-13T05:30:39.4152380-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e2ac26e1-8141-4a43-9627-d103912b77de" />
+    <UnitTestResult executionId="9dda9ddf-c29d-4ded-83de-7a8ff3cfd387" testId="e2b3bb00-9b78-0528-f4ec-fef44860910a" testName="Student.List.Test.StudentListTest.StudentListShouldBeEqualToStudentList1" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002468" startTime="2023-01-13T05:30:39.4187445-04:00" endTime="2023-01-13T05:30:39.4187446-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9dda9ddf-c29d-4ded-83de-7a8ff3cfd387" />
+    <UnitTestResult executionId="3858d735-b85f-4086-abeb-b5463cbf864e" testId="635c96ca-85ae-d2bd-b418-6d1232d408d0" testName="Student.List.Test.StudentListTest.StudentListShouldHaveOnlyTwoEqualElements" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002904" startTime="2023-01-13T05:30:39.4177461-04:00" endTime="2023-01-13T05:30:39.4177462-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3858d735-b85f-4086-abeb-b5463cbf864e" />
+    <UnitTestResult executionId="71849d02-e6f9-4656-917a-26f115508894" testId="82751921-aa6d-f786-4d5c-eae532b9ecb4" testName="Student.List.Test.StudentListTest.StudentList3ShouldHaveStudentJuanPerez" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002126" startTime="2023-01-13T05:30:39.4188116-04:00" endTime="2023-01-13T05:30:39.4188116-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71849d02-e6f9-4656-917a-26f115508894" />
+    <UnitTestResult executionId="dc2546a6-0f28-4224-85fc-765d6149942a" testId="bd3cdf68-6d30-c339-e2a3-175e9cc9255f" testName="IClassFix.IClassFixTest.Test2" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0044758" startTime="2023-01-13T05:30:39.3594624-04:00" endTime="2023-01-13T05:30:39.3594625-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc2546a6-0f28-4224-85fc-765d6149942a" />
+    <UnitTestResult executionId="d3a81b74-1144-43b8-b683-0629cd4f3570" testId="ed3b910e-77ec-8709-065d-b1d5b796306b" testName="Calculator.CalculatorTests.UsingMemberData(num1: -5, num2: -7, expectedSum: -12)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000052" startTime="2023-01-13T05:30:39.4164874-04:00" endTime="2023-01-13T05:30:39.4164874-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3a81b74-1144-43b8-b683-0629cd4f3570" />
+    <UnitTestResult executionId="a65c5954-b406-43ba-883e-6719f0c6a968" testId="9f346bcf-66f8-218c-879c-6804a4cf66c0" testName="Student.List.Test.StudentListTest.StudentListShouldNotBeEqualToStudentList2" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0154593" startTime="2023-01-13T05:30:39.4177006-04:00" endTime="2023-01-13T05:30:39.4177007-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a65c5954-b406-43ba-883e-6719f0c6a968" />
+    <UnitTestResult executionId="c36ea7aa-05f9-42d2-9af0-6011f49f10a3" testId="773fcf3e-9eea-eb0b-4e7f-3596cc5df005" testName="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 5, num2: 7, expectedSum: 12)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0000058" startTime="2023-01-13T05:30:39.4162481-04:00" endTime="2023-01-13T05:30:39.4162482-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c36ea7aa-05f9-42d2-9af0-6011f49f10a3" />
+    <UnitTestResult executionId="5cb768dc-d769-4671-8fa5-e7855b99c4dc" testId="004ba38f-88cd-a93c-d266-18014ecbc27b" testName="Data driven - DataAttribute(num1: -1, num2: 2, expected: 1)" computerName="DESKTOP-IE0IFMA" duration="00:00:00.0002319" startTime="2023-01-13T05:30:39.4124587-04:00" endTime="2023-01-13T05:30:39.4124588-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cb768dc-d769-4671-8fa5-e7855b99c4dc" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Data driven - DataAttribute(num1: -1, num2: 2, expected: 1)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="004ba38f-88cd-a93c-d266-18014ecbc27b">
+      <Execution id="5cb768dc-d769-4671-8fa5-e7855b99c4dc" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator2.CalculatorTests" name="TestAdditionDataDriven" />
+    </UnitTest>
+    <UnitTest name="Student.List.Test.StudentListTest.StudentListShouldHaveOnlyTwoEqualElements" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="635c96ca-85ae-d2bd-b418-6d1232d408d0">
+      <Execution id="3858d735-b85f-4086-abeb-b5463cbf864e" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.List.Test.StudentListTest" name="StudentListShouldHaveOnlyTwoEqualElements" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 5, num2: 0, expectedSum: 5)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="d80fb929-709a-634a-42d5-1c2e9d5061bb">
+      <Execution id="a64b76c1-4188-45ea-ad1d-476047956e7b" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Data driven - ExternalAdditionData(num1: 1, num2: 2, expected: 3)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="c77754a2-4b31-84b8-2747-799a47841517">
+      <Execution id="230d1a52-3fa2-40dc-955a-3bc5be5b9687" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="csv.test.CsvTest" name="TestExternalAdditionData" />
+    </UnitTest>
+    <UnitTest name="Student.Test.StudentTest.ShouldNotBeMarried" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="be4ca8f1-120f-152c-8990-8c619244730f">
+      <Execution id="61c183a2-c768-491f-926c-4163f452a61f" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.Test.StudentTest" name="ShouldNotBeMarried" />
+    </UnitTest>
+    <UnitTest name="NumbersAndDates.Test.NumbersAndDatesTest.NumberShouldBeBetween40And50" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="95c7455e-f450-5872-5d74-9032c04d627d">
+      <Execution id="f29a5158-e14e-4c79-bb80-c40cd50172f6" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NumbersAndDates.Test.NumbersAndDatesTest" name="NumberShouldBeBetween40And50" />
+    </UnitTest>
+    <UnitTest name="Student.Test.StudentTest.NameShouldStartWith" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="831c4d3e-bd56-95f5-dcd9-afcff268ca7c">
+      <Execution id="977c9153-3b60-4f05-9ca0-e4d8999a2e84" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.Test.StudentTest" name="NameShouldStartWith" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingMemberData(num1: 3, num2: 4, expectedSum: 7)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="5fb10982-0ce8-2a42-dcb3-d1cc3e27274e">
+      <Execution id="b38b6305-8b2f-4968-8be4-3f7c56ed940b" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingMemberData" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingOnlyInlineData(num1: 3, num2: 4, expectedSum: 7)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="1f997b27-65df-b9c3-03bc-0051d769b860">
+      <Execution id="227fbe69-21b3-44df-842d-48cbdc04f168" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingOnlyInlineData" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 3, num2: 4, expectedSum: 7)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="09f4fd82-df2f-8d87-5320-1532631d8646">
+      <Execution id="5773632f-a756-4a0d-b06e-1aab582e76b5" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingOnlyInlineData(num1: -23, num2: 0, expectedSum: -23)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="e31eac35-4906-2f79-11ed-d303b6219fe1">
+      <Execution id="1b53fc01-065e-4c37-a268-c812944cf2cf" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingOnlyInlineData" />
+    </UnitTest>
+    <UnitTest name="NumbersAndDates.Test.NumbersAndDatesTest.BothDatesShouldBeInARangeOf8Days" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="1a4594f3-a8c1-c4c0-5e6b-5fbbe37172f7">
+      <Execution id="4f491623-4185-4f85-bd36-d59cd28eedbf" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NumbersAndDates.Test.NumbersAndDatesTest" name="BothDatesShouldBeInARangeOf8Days" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: -3, num2: -4, expectedSum: -7)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="4ccf94eb-3305-033f-df0b-e910307adb81">
+      <Execution id="e2ac26e1-8141-4a43-9627-d103912b77de" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Student.List.Test.StudentListTest.StudentList3ShouldNotHaveRepeatedElements" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="7f109bc9-0e2a-640b-b05a-d542eca0b8d3">
+      <Execution id="0e59d6e6-52c5-48b3-b0ac-d2f2e9143ffd" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.List.Test.StudentListTest" name="StudentList3ShouldNotHaveRepeatedElements" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingMemberData(num1: -5, num2: -7, expectedSum: -12)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="ed3b910e-77ec-8709-065d-b1d5b796306b">
+      <Execution id="d3a81b74-1144-43b8-b683-0629cd4f3570" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingMemberData" />
+    </UnitTest>
+    <UnitTest name="Data driven - DataAttribute(num1: 1, num2: 2, expected: 3)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="335ed941-b6ad-a797-a86c-e2bdafd6f330">
+      <Execution id="2c1f02d8-4b31-46ac-8d56-dd90c31c162b" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator2.CalculatorTests" name="TestAdditionDataDriven" />
+    </UnitTest>
+    <UnitTest name="NumbersAndDates.Test.NumbersAndDatesTest.NumberShouldBeLessThan50" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="cdbbd52a-317c-24ee-636f-6d172458dfe5">
+      <Execution id="53797b26-67ff-4022-97ee-127af9273b6f" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NumbersAndDates.Test.NumbersAndDatesTest" name="NumberShouldBeLessThan50" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingOnlyInlineData(num1: 0, num2: 0, expectedSum: 0)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="6ff0212b-c5f0-25e4-4614-7c1195069c56">
+      <Execution id="ef9b09fd-1d67-4aaf-b2ad-3a9822e89aa3" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingOnlyInlineData" />
+    </UnitTest>
+    <UnitTest name="Student.Test.StudentTest.NickNameShouldThrowNullException" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="839db7ce-4e47-3f3f-5149-ba84c0bda82a">
+      <Execution id="3fe4b683-ebec-44f5-b625-44988ab321cb" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.Test.StudentTest" name="NickNameShouldThrowNullException" />
+    </UnitTest>
+    <UnitTest name="IClassFix.IClassFixTest.Test1" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="d61166c4-0c01-3376-9421-a20820e85f21">
+      <Execution id="71012a55-9318-48be-b1ee-9551ea1c092c" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="IClassFix.IClassFixTest" name="Test1" />
+    </UnitTest>
+    <UnitTest name="Student.List.Test.StudentListTest.StudentList3ShouldHaveAStudentWith25Years" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="1ed78dd9-8ae5-3fee-3a63-797bff641128">
+      <Execution id="788479bf-9885-47ff-8d2f-52951545691c" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.List.Test.StudentListTest" name="StudentList3ShouldHaveAStudentWith25Years" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingMemberData(num1: -3, num2: -4, expectedSum: -7)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="a7e44a59-8f91-cc93-23c4-ef8d7fd7a6b7">
+      <Execution id="392ba96e-4ede-47cb-8a16-06ce31405670" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingMemberData" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 0, num2: 1, expectedSum: 1)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="6a491d04-dea2-5031-82aa-a8c142a77c5e">
+      <Execution id="a0e9ffba-8e8d-4d15-84d1-2d4060a42a1e" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Student.Test.StudentTest.NameShouldContain" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="4ebfb2a7-de50-7f1b-3ce3-8a486a84f451">
+      <Execution id="ad81da60-48b9-4c59-8354-05d89d7008f5" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.Test.StudentTest" name="NameShouldContain" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingMemberData(num1: 0, num2: 0, expectedSum: 0)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="036216d7-f829-4720-28e6-7449390a77ef">
+      <Execution id="61c12613-e884-428c-8762-1c514a9ce32b" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingMemberData" />
+    </UnitTest>
+    <UnitTest name="NumbersAndDates.Test.NumbersAndDatesTest.NumberShouldBeGreaterOrEqualTo42" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="1b7748d2-4c19-6193-3e18-8eaa198a31c1">
+      <Execution id="4f53823f-e837-4728-ae31-d9e2dbf043d9" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NumbersAndDates.Test.NumbersAndDatesTest" name="NumberShouldBeGreaterOrEqualTo42" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingMemberData(num1: 5, num2: 0, expectedSum: 5)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="26cc9b08-0a3e-a6bb-cc9d-6c85ba289cc7">
+      <Execution id="57e49232-9c93-4268-8214-a763ed87ec8e" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingMemberData" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingOnlyInlineData(num1: -3, num2: -4, expectedSum: -7)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="0b6a64cd-1314-893b-aa07-5f2602c33a21">
+      <Execution id="607704da-f830-4c90-b7b0-79baf421e043" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingOnlyInlineData" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingOnlyInlineData(num1: 3, num2: 0, expectedSum: 3)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="e22fbc2a-efa6-9784-4169-43e038e69938">
+      <Execution id="3775585b-0b09-400c-97aa-7c738c8db424" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingOnlyInlineData" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingOnlyInlineData(num1: -5, num2: 8, expectedSum: 3)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="a0ca6b29-7fc5-75f4-8610-52feda3faf46">
+      <Execution id="3903ee61-b855-442f-8fae-ac6d5e5a45c9" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingOnlyInlineData" />
+    </UnitTest>
+    <UnitTest name="Student.List.Test.StudentListTest.StudentListShouldBeEqualToStudentList1" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="e2b3bb00-9b78-0528-f4ec-fef44860910a">
+      <Execution id="9dda9ddf-c29d-4ded-83de-7a8ff3cfd387" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.List.Test.StudentListTest" name="StudentListShouldBeEqualToStudentList1" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.Test_Addition(x: 1, y: 2, expected: 3)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="5df3e503-3ba9-1f67-6199-11f8c6400ea8">
+      <Execution id="e37fd044-ba9f-4e62-951e-a9bd683dc153" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="Test_Addition" />
+    </UnitTest>
+    <UnitTest name="IClassFix.IClassFixTest.Test2" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="bd3cdf68-6d30-c339-e2a3-175e9cc9255f">
+      <Execution id="dc2546a6-0f28-4224-85fc-765d6149942a" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="IClassFix.IClassFixTest" name="Test2" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: -5, num2: -7, expectedSum: -12)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="5cd4fa5f-afe7-561c-5669-1af4f953448b">
+      <Execution id="8155a7fa-2d2c-4fb9-ac2a-768ba81cdd81" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 0, num2: 0, expectedSum: 0)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="37f4fa58-da74-119f-9712-c09c2cc498a2">
+      <Execution id="a0f9e8c1-4809-4e61-b7bf-45fb86e15e67" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Student.List.Test.StudentListTest.StudentListShouldNotBeEqualToStudentList2" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="9f346bcf-66f8-218c-879c-6804a4cf66c0">
+      <Execution id="a65c5954-b406-43ba-883e-6719f0c6a968" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.List.Test.StudentListTest" name="StudentListShouldNotBeEqualToStudentList2" />
+    </UnitTest>
+    <UnitTest name="Student.Test.StudentTest.NameShouldNotContain" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="1c4147f2-8d9d-701e-2bd1-b716c29cbca9">
+      <Execution id="7993f577-b103-4669-8217-69a89de923a0" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.Test.StudentTest" name="NameShouldNotContain" />
+    </UnitTest>
+    <UnitTest name="Student.Test.StudentTest.NameShouldEndWith" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="3e8a7121-a590-c258-6881-ba37034b12a8">
+      <Execution id="2b22522a-48f1-43b8-ba7f-8ec26da3af9d" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.Test.StudentTest" name="NameShouldEndWith" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.Test_Addition(x: -2, y: 3, expected: 1)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="27c600ff-c3a5-ba1a-114e-274c09a4ac3c">
+      <Execution id="8974bac8-0366-4421-ba66-0d85538a04a4" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="Test_Addition" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 5, num2: 7, expectedSum: 12)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="773fcf3e-9eea-eb0b-4e7f-3596cc5df005">
+      <Execution id="c36ea7aa-05f9-42d2-9af0-6011f49f10a3" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingInlineDataAndMemberDataTogether" />
+    </UnitTest>
+    <UnitTest name="Data driven - DataAttribute(num1: 0, num2: 0, expected: 0)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="a549c648-9337-1fdf-9b78-664a1e863e4d">
+      <Execution id="d7f35634-84a9-4009-a6be-854f90d831fe" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator2.CalculatorTests" name="TestAdditionDataDriven" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.Test_Addition(x: 4, y: 5, expected: 9)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="1c0d3584-490d-505b-c760-b905cf19ebad">
+      <Execution id="a419d062-bc90-4ae8-a3fb-6947221c1180" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="Test_Addition" />
+    </UnitTest>
+    <UnitTest name="Calculator.CalculatorTests.UsingMemberData(num1: 5, num2: 7, expectedSum: 12)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="5af8b50f-20b0-75c6-8682-86a64989bfd0">
+      <Execution id="50a0bdff-b082-4b65-aaf2-117ad6b56e53" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Calculator.CalculatorTests" name="UsingMemberData" />
+    </UnitTest>
+    <UnitTest name="NumbersAndDates.Test.NumbersAndDatesTest.BothDatesShouldNotBeEqual" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="9b6654dc-5b14-909f-c520-0ce81994e2d9">
+      <Execution id="005fda9a-85ac-4a5f-8ac5-f89d16bb042d" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NumbersAndDates.Test.NumbersAndDatesTest" name="BothDatesShouldNotBeEqual" />
+    </UnitTest>
+    <UnitTest name="Data driven - ExternalAdditionData(num1: 2, num2: 3, expected: 5)" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="98143ea5-160d-1559-22a6-831f09f98662">
+      <Execution id="6f44992f-ea0f-49a3-b3fe-f728589137bc" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="csv.test.CsvTest" name="TestExternalAdditionData" />
+    </UnitTest>
+    <UnitTest name="Student.List.Test.StudentListTest.StudentList3ShouldHaveStudentJuanPerez" storage="c:\users\mi dell\workspace\api\exercise1\test\bin\debug\net6.0\exercise1-test.dll" id="82751921-aa6d-f786-4d5c-eae532b9ecb4">
+      <Execution id="71849d02-e6f9-4656-917a-26f115508894" />
+      <TestMethod codeBase="C:\Users\Mi DELL\workspace\API\Exercise1\Test\bin\Debug\net6.0\Exercise1-test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Student.List.Test.StudentListTest" name="StudentList3ShouldHaveStudentJuanPerez" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="7f109bc9-0e2a-640b-b05a-d542eca0b8d3" executionId="0e59d6e6-52c5-48b3-b0ac-d2f2e9143ffd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f997b27-65df-b9c3-03bc-0051d769b860" executionId="227fbe69-21b3-44df-842d-48cbdc04f168" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3e8a7121-a590-c258-6881-ba37034b12a8" executionId="2b22522a-48f1-43b8-ba7f-8ec26da3af9d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ebfb2a7-de50-7f1b-3ce3-8a486a84f451" executionId="ad81da60-48b9-4c59-8354-05d89d7008f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5cd4fa5f-afe7-561c-5669-1af4f953448b" executionId="8155a7fa-2d2c-4fb9-ac2a-768ba81cdd81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1a4594f3-a8c1-c4c0-5e6b-5fbbe37172f7" executionId="4f491623-4185-4f85-bd36-d59cd28eedbf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be4ca8f1-120f-152c-8990-8c619244730f" executionId="61c183a2-c768-491f-926c-4163f452a61f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c0d3584-490d-505b-c760-b905cf19ebad" executionId="a419d062-bc90-4ae8-a3fb-6947221c1180" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5df3e503-3ba9-1f67-6199-11f8c6400ea8" executionId="e37fd044-ba9f-4e62-951e-a9bd683dc153" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5fb10982-0ce8-2a42-dcb3-d1cc3e27274e" executionId="b38b6305-8b2f-4968-8be4-3f7c56ed940b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c4147f2-8d9d-701e-2bd1-b716c29cbca9" executionId="7993f577-b103-4669-8217-69a89de923a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26cc9b08-0a3e-a6bb-cc9d-6c85ba289cc7" executionId="57e49232-9c93-4268-8214-a763ed87ec8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e31eac35-4906-2f79-11ed-d303b6219fe1" executionId="1b53fc01-065e-4c37-a268-c812944cf2cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c77754a2-4b31-84b8-2747-799a47841517" executionId="230d1a52-3fa2-40dc-955a-3bc5be5b9687" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37f4fa58-da74-119f-9712-c09c2cc498a2" executionId="a0f9e8c1-4809-4e61-b7bf-45fb86e15e67" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d61166c4-0c01-3376-9421-a20820e85f21" executionId="71012a55-9318-48be-b1ee-9551ea1c092c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a549c648-9337-1fdf-9b78-664a1e863e4d" executionId="d7f35634-84a9-4009-a6be-854f90d831fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ff0212b-c5f0-25e4-4614-7c1195069c56" executionId="ef9b09fd-1d67-4aaf-b2ad-3a9822e89aa3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="839db7ce-4e47-3f3f-5149-ba84c0bda82a" executionId="3fe4b683-ebec-44f5-b625-44988ab321cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b7748d2-4c19-6193-3e18-8eaa198a31c1" executionId="4f53823f-e837-4728-ae31-d9e2dbf043d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d80fb929-709a-634a-42d5-1c2e9d5061bb" executionId="a64b76c1-4188-45ea-ad1d-476047956e7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cdbbd52a-317c-24ee-636f-6d172458dfe5" executionId="53797b26-67ff-4022-97ee-127af9273b6f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b6654dc-5b14-909f-c520-0ce81994e2d9" executionId="005fda9a-85ac-4a5f-8ac5-f89d16bb042d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="27c600ff-c3a5-ba1a-114e-274c09a4ac3c" executionId="8974bac8-0366-4421-ba66-0d85538a04a4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09f4fd82-df2f-8d87-5320-1532631d8646" executionId="5773632f-a756-4a0d-b06e-1aab582e76b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="335ed941-b6ad-a797-a86c-e2bdafd6f330" executionId="2c1f02d8-4b31-46ac-8d56-dd90c31c162b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0b6a64cd-1314-893b-aa07-5f2602c33a21" executionId="607704da-f830-4c90-b7b0-79baf421e043" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="036216d7-f829-4720-28e6-7449390a77ef" executionId="61c12613-e884-428c-8762-1c514a9ce32b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="831c4d3e-bd56-95f5-dcd9-afcff268ca7c" executionId="977c9153-3b60-4f05-9ca0-e4d8999a2e84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ed78dd9-8ae5-3fee-3a63-797bff641128" executionId="788479bf-9885-47ff-8d2f-52951545691c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e22fbc2a-efa6-9784-4169-43e038e69938" executionId="3775585b-0b09-400c-97aa-7c738c8db424" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="98143ea5-160d-1559-22a6-831f09f98662" executionId="6f44992f-ea0f-49a3-b3fe-f728589137bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5af8b50f-20b0-75c6-8682-86a64989bfd0" executionId="50a0bdff-b082-4b65-aaf2-117ad6b56e53" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a491d04-dea2-5031-82aa-a8c142a77c5e" executionId="a0e9ffba-8e8d-4d15-84d1-2d4060a42a1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0ca6b29-7fc5-75f4-8610-52feda3faf46" executionId="3903ee61-b855-442f-8fae-ac6d5e5a45c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7e44a59-8f91-cc93-23c4-ef8d7fd7a6b7" executionId="392ba96e-4ede-47cb-8a16-06ce31405670" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95c7455e-f450-5872-5d74-9032c04d627d" executionId="f29a5158-e14e-4c79-bb80-c40cd50172f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ccf94eb-3305-033f-df0b-e910307adb81" executionId="e2ac26e1-8141-4a43-9627-d103912b77de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e2b3bb00-9b78-0528-f4ec-fef44860910a" executionId="9dda9ddf-c29d-4ded-83de-7a8ff3cfd387" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="635c96ca-85ae-d2bd-b418-6d1232d408d0" executionId="3858d735-b85f-4086-abeb-b5463cbf864e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="82751921-aa6d-f786-4d5c-eae532b9ecb4" executionId="71849d02-e6f9-4656-917a-26f115508894" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd3cdf68-6d30-c339-e2a3-175e9cc9255f" executionId="dc2546a6-0f28-4224-85fc-765d6149942a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ed3b910e-77ec-8709-065d-b1d5b796306b" executionId="d3a81b74-1144-43b8-b683-0629cd4f3570" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9f346bcf-66f8-218c-879c-6804a4cf66c0" executionId="a65c5954-b406-43ba-883e-6719f0c6a968" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="773fcf3e-9eea-eb0b-4e7f-3596cc5df005" executionId="c36ea7aa-05f9-42d2-9af0-6011f49f10a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="004ba38f-88cd-a93c-d266-18014ecbc27b" executionId="5cb768dc-d769-4671-8fa5-e7855b99c4dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados sin formato de lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="46" executed="46" passed="46" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 6.0.1)&#xD;
+[xUnit.net 00:00:00.80]   Discovering: Exercise1-test&#xD;
+[xUnit.net 00:00:00.88]   Discovered:  Exercise1-test&#xD;
+[xUnit.net 00:00:00.88]   Starting:    Exercise1-test&#xD;
+[xUnit.net 00:00:01.04]   Finished:    Exercise1-test&#xD;
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="DESKTOP-IE0IFMA" outcome="Warning" timestamp="2023-01-13T05:30:39.2619086-04:00">
+        <Text>[xUnit.net 00:00:00.88] Exercise1-test: Skipping test case with duplicate ID 'eabfaada722d62fd1d37453577c0a8aa63dab19c' ('Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 0, num2: 0, expectedSum: 0)' and 'Calculator.CalculatorTests.UsingInlineDataAndMemberDataTogether(num1: 0, num2: 0, expectedSum: 0)')</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
