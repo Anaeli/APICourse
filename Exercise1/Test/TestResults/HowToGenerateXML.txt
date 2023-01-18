@@ -1,0 +1,5 @@
+dotnet test --logger "trx;LogFileName=TestOutputResults.xml"
+or 
+dotnet test --filter FullyQualifiedName~XUnitTestProject1.TestClass1.Test1 --logger "trx;LogFileName=TestOutputResults.xml"
+
+https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-test
